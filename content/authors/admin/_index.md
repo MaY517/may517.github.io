@@ -65,20 +65,20 @@ work:
     company_name: Microsoft
     company_url: ''
     company_logo: ''
-    date_start: 2024-01
+    date_start: 2024-01-01
     date_end: ''
   - position: Geophysical AI/ML Specialist
     company_name: Aramco Americas
     company_url: ''
     company_logo: ''
-    date_start: 2021-11
-    date_end: 2023-12
+    date_start: 2021-11-15
+    date_end: 2023-12-31
   - position: Staff Researcher
     company_name: ConocoPhillips
     company_url: ''
     company_logo: ''
-    date_start: 2012-11
-    date_end: 2021-10
+    date_start: 2012-11-01
+    date_end: 2021-10-31
 ---
 
 ## About Me
