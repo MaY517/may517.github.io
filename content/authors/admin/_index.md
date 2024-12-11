@@ -50,16 +50,16 @@ interests:
 education:
   - area: PhD, Computational Geophysics
     institution: Colorado School of Mines
-    date_start: 2007
-    date_end: 2012
+    year_start: 2007
+    year_end: 2012
   - area: MSc, Acoustics
     institution: Nanjing University
-    date_start: 2004
-    date_end: 2007
+    year_start: 2004
+    year_end: 2007
   - area: BSc, EE
     institution: Nanjing University
-    date_start: 2000
-    date_end: 2004
+    year_start: 2000
+    year_end: 2004
 work:
   - position: Sr. Research Software Engineer
     company_name: Microsoft
