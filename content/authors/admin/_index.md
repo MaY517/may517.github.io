@@ -25,7 +25,7 @@ role: Sr. Researcher # Software Engineer
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Microsoft
-    url: https://microsoft.com/
+    url: https://www.microsoft.com/applied-sciences/people/yong-ma?msockid=315f747a3f6e699c0e56615a3edd68fe
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
