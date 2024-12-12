@@ -39,8 +39,8 @@ profiles:
     url: https://www.linkedin.com/in/yong-ma-31003b22
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=en&user=151OTekAAAAJ
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1406-2443
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/0000-0002-1406-2443
 
 interests:
   - Artificial Intelligence
