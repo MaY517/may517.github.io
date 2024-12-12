@@ -84,4 +84,4 @@ education:
 
 ## About Me
 
-Yong Ma is a senior research software engineer in the Applied Sciences Group (ASG) at Microsoft where he is working on efficient AI models for edge and cloud. Before joining ASG, his work focused on computational imaging via numerical optimizations, high-performance computing, signal processing, and deep learning.
+Yong Ma is a senior research software engineer in the Applied Sciences Group (ASG) at Microsoft, where he is working on efficient AI models for edge and cloud. Before joining ASG, his work focused on computational imaging via deep learning. numerical optimizations and high-performance computing.
