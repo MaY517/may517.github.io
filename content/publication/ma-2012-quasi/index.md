@@ -5,7 +5,8 @@ authors:
 - Dave Hale
 date: '2012-01-01'
 publishDate: '2024-12-12T01:04:48.220502Z'
-publication_types:
-- article-journal
+publication_types: ["journal article"]
 publication: '*Geophysics*'
+
+url_pdf: https://library.seg.org/doi/abs/10.1190/geo2011-0519.1
 ---

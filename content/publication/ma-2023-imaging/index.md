@@ -7,7 +7,8 @@ authors:
 - Weichang Li
 date: '2023-01-01'
 publishDate: '2024-12-12T01:04:48.311994Z'
-publication_types:
-- article-journal
+publication_types: ["journal article"]
 publication: '*Interpretation*'
+
+url_pdf: https://library.seg.org/doi/10.1190/int-2022-0098.1
 ---

@@ -10,7 +10,8 @@ authors:
 - Yuanyuan Qiu
 date: '2007-01-01'
 publishDate: '2024-12-12T01:04:48.196515Z'
-publication_types:
-- article-journal
+publication_types: ["journal article"]
 publication: '*Chinese Physics*'
+
+url_pdf: https://cpb.iphy.ac.cn/CN/10.1088/1009-1963/16/9/041
 ---

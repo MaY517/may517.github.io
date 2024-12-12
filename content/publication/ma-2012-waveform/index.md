@@ -4,6 +4,7 @@ authors:
 - Yong Ma
 date: '2012-01-01'
 publishDate: '2024-12-12T01:04:48.244805Z'
-publication_types:
-- thesis
+publication_types: ["thesis"]
+
+url_pdf: https://repository.mines.edu/handle/11124/76636
 ---

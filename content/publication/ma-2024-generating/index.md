@@ -7,7 +7,8 @@ authors:
 - Damian Pablo San Roman Alerigi
 date: '2024-05-01'
 publishDate: '2024-12-12T01:04:48.347232Z'
-publication_types:
-- manuscript
+publication_types: ["patent"]
 publication: '*Google Patents*'
+
+url_pdf: https://patentimages.storage.googleapis.com/9e/23/f8/3d4aa4af362ab9/US20240177457A1.pdf
 ---

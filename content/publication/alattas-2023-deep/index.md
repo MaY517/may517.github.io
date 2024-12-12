@@ -9,7 +9,8 @@ authors:
 - Weichang Li
 date: '2023-01-01'
 publishDate: '2024-12-12T01:04:48.341310Z'
-publication_types:
-- paper-conference
+publication_types: ['conference']
 publication: '*AGU Fall Meeting Abstracts*'
+
+url_pdf: https://ui.adsabs.harvard.edu/abs/2023AGUFM.S31C0367A/abstract
 ---

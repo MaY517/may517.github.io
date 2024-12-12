@@ -6,7 +6,8 @@ authors:
 - Weichang Li
 date: '2023-12-01'
 publishDate: '2024-12-12T01:04:48.353211Z'
-publication_types:
-- manuscript
+publication_types: ["patent"]
 publication: '*Google Patents*'
+
+url_pdf: https://patents.google.com/patent/US20230408718A1/en
 ---
