@@ -11,7 +11,7 @@ last_name: Ma
 
 # Status emoji
 status:
-  icon: ☕️
+  # icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -44,6 +44,7 @@ profiles:
 
 interests:
   - Artificial Intelligence
+  - Computer Vision
   - Computational Imaging
   - Signal Processing
 
