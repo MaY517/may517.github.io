@@ -46,6 +46,7 @@ sections:
     id: papers
     content:
       title: Featured Publications
+      text: TBA.
       filters:
         folders:
           - publication
