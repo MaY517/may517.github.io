@@ -14,8 +14,12 @@ authors:
 - Luming Liang
 date: '2024-01-01'
 publishDate: '2024-12-12T01:04:48.359063Z'
-publication_types: ["journal article"]
+publication_types: ["article-journal"]
 publication: '*arXiv preprint arXiv:2409.09085*'
+
+tags:
+- Deep Learning
+featured: false
 
 url_pdf: https://arxiv.org/pdf/2409.09085
 ---

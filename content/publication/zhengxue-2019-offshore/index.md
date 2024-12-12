@@ -16,6 +16,10 @@ date: '2019-09-01'
 publishDate: '2024-12-12T01:04:48.257115Z'
 publication_types: ["patent"]
 
+tags:
+- Inverse Problem
+featured: false
+
 url_pdf: https://patents.google.com/patent/US20190293813A1/en
 
 ---
