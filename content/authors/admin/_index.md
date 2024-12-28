@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Sr. Researcher # Software Engineer
+role: Sr. Research SDE # Software Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
