@@ -49,7 +49,7 @@ interests:
   - Signal Processing
 
 work:
-  - position: Sr. Research Software Engineer
+  - position: Sr. Research SDE
     company_name: Microsoft
     company_url: ''
     company_logo: ''
