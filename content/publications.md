@@ -10,8 +10,7 @@ design:
 # Page sections
 
 sections:
-  - block: portfolio
-    id: publication
+  - block: collection
     content:
       title: Publications
       filters:
