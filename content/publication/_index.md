@@ -14,6 +14,11 @@ content:
   # Page type to display. E.g. project.
   # page_type: project
 
+  filters:
+    tag: ''
+    author: ''
+    publication_type: ''
+    exclude_featured: true
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
 
@@ -32,10 +37,4 @@ content:
     - name: Acoustics
       tag: Acoustics
 
-design:
-  columns: '1'
-  view: masonry
-  flip_alt_rows: true
-  background: {}
-  spacing: {padding: [0, 0, 0, 0]}
 ---
